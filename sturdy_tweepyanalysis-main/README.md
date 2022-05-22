@@ -1,0 +1,2 @@
+# sturdy_tweepyanalysis
+The main objective of this project is to analyze sentiment of tweets .In this project ,user has two options for getting tweets , either he can enter a keyword to get tweets about or he can enter a username of twitter user  to get his tweets . User will collect  200 tweets from twitter using Tweepy API and will analyze them into positive, negative ,neutral using TextBlob API by using Natural Language Processing(NLP). Note: Use your own tweepy credentials for API authorization.
