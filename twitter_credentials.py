@@ -1,0 +1,6 @@
+'''Use your own tweepy credentials'''
+access_token_secret="SrSJiGghiqaQzKBgPKeHXYi0GCS2PGD4UFLWsA8X5taX8"
+access_token="1514901610484301828-Ge4gTws3X3CcsvDaY9VZqqhi3TezHF"
+bearer_token="AAAAAAAAAAAAAAAAAAAAAJJlbgEAAAAAXdagESbFD9jpCUvg0Je0FAXGWWs%3DvCKaHadIwAuxJgDa1CuFYSDD4f0OxBRvHalC07d9JsGKXTpRVE"
+Api_key="QzoDK6Kc33rBeaArKc7Ck5epY"
+Api_key_secret="9zfh0a7kMYn7rcCKGf0T5jH9o9DUsWKOZnzKLvinv4h7bzBPap"
