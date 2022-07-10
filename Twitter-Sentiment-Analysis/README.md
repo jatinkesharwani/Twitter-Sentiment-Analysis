@@ -19,6 +19,24 @@ The main objective of this project is to analyze sentiment of tweets .In this pr
 
 ## Project View
 
+|    Home Screen    |  
+|       :--------:   |
+| ![](https://github.com/jatinkesharwani/Twitter-Sentiment-Analysis/blob/8e2f93ed46846290f8c4ddc0e12060cb1e7c7754/Twitter-Sentiment-Analysis/readme%20images/home%20page.png) | 
+
+|    Analysis using keyword Screen   | Analysis using users name Screen |
+|:------:          |:---------------: |
+|![](https://github.com/jatinkesharwani/Twitter-Sentiment-Analysis/blob/8e2f93ed46846290f8c4ddc0e12060cb1e7c7754/Twitter-Sentiment-Analysis/readme%20images/analysis%20using%20keyword%20page.png)|![](https://github.com/jatinkesharwani/Twitter-Sentiment-Analysis/blob/8e2f93ed46846290f8c4ddc0e12060cb1e7c7754/Twitter-Sentiment-Analysis/readme%20images/analysis%20using%20user%20page.png)|
+
+| Tweets data Screen  |
+|:------:          |
+|![](https://github.com/jatinkesharwani/Twitter-Sentiment-Analysis/blob/8e2f93ed46846290f8c4ddc0e12060cb1e7c7754/Twitter-Sentiment-Analysis/readme%20images/tweets%20data.png)|
+
+| Pie chart of data Screen  |
+|:------:          |
+|![](https://github.com/jatinkesharwani/Twitter-Sentiment-Analysis/blob/8e2f93ed46846290f8c4ddc0e12060cb1e7c7754/Twitter-Sentiment-Analysis/readme%20images/pie%20chart%20of%20tweets%20result.png)|
+
+
+
 
 ## Installation
 
@@ -102,4 +120,3 @@ To contribute, fork the repository and push the changes to the **master** branch
 ## 💬 Feedback
 
 Feel free to send us feedback on gmail => "jatinkesharwani360@gmail.com"  or [file an issue](https://github.com/jatinkesharwani/Twitter-Sentiment-Analysis/issues). Feature requests are always welcome.
-
